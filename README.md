@@ -19,7 +19,7 @@ From directory you would like to have available in your Docker container:
 docker run --rm -v "$(pwd)":/workdir data_science bash
 ```
 
-## Jypyter
+## Jupyter
 
 From directory you would like to have available in your Docker container:
 ```bash
