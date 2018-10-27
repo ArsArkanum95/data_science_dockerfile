@@ -3,7 +3,7 @@ Docker image with things I need for my data science projects
 
 ## Requirements
 
-- Docker (huh)
+- Docker (duh)
 
 ## Build
 
@@ -32,4 +32,4 @@ docker run --rm -p 8888:8888 -v "$(pwd)":/workdir data_science jupyter-notebook 
 
 ## Why no *matplotlib* in *python_requirements.txt*?
 
-Because *graph-tool* will have already got one from apt repos (same case with numpy and pandas, but meh for now).
+Because *graph-tool* will have already gotten one from apt repos (same case with numpy and pandas, but meh for now).
