@@ -1,0 +1,4 @@
+git
+libicu-dev
+python3-graph-tool
+

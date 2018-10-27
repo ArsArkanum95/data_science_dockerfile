@@ -1,0 +1,11 @@
+numpy
+pandas
+seaborn
+scikit-learn
+jupyter
+twitterscraper
+twint
+networkx
+tqdm
+
+git+https://github.com/aboSamoor/polyglot.git@master
